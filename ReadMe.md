@@ -1,4 +1,4 @@
-# Agar aap **Swagger UI** ko **ekdum basic se Spring Boot mein** shuru karna chahte ho (zero se), to main aapko **step-by-step bilkul beginner friendly** way mein bata raha hoon.
+# swagger docs
 
 ---
 
