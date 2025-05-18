@@ -4,7 +4,7 @@
 
 ## ✅ What is Swagger?
 
-**Swagger UI** ek tool hai jo aapke REST APIs ko browser mein documentation form mein dikhata hai aur test karne ka interface bhi deta hai .
+**Swagger UI** ek tool hai jo aapke REST APIs ko  mein documentation form mein dikhata hai aur test karne ka interface bhi deta hai .
 
 ---
 
